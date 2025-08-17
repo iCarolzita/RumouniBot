@@ -54,7 +54,7 @@ No terminal, execute:
 python bot.py
 ```
 
-Depois, no Telegram, procure o seu bot e envie o comando `/start`.
+Depois, no Telegram, procure pelo bot @UniGuiaBot e envie o comando `/start`.
 
 ---
 
